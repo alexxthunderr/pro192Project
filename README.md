@@ -1,4 +1,5 @@
 # pro192Project
+Group 2
 PRO192: OOP in Java  Social constructive learning 
 /*
 Deadline 10:00 PM 27/06
