@@ -1,0 +1,3 @@
+111;1;Poodle;den;duc;500;sdfadf
+123;3;alala;trắng;cai;400;Chó Phú Quốc
+1876;2;zuzi;xám;cái;300;Chó Bull Pháp (French Bulldog) là giống chó dễ thương nhất trong các loại chó cảnh
